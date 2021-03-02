@@ -1,0 +1,26 @@
+*{
+  color: green;
+}
+p ,h5{
+  color: blue;
+}
+h5{
+  margin-left: 100px;
+}
+h1{
+  word-spacing: 20px;
+}
+p span{
+  text-decoration: line-through;
+  /* Cuando esta propiedad es aplicada, las palabras (o los span) afectadas
+  se vuelven del color por defecto, verde. Mi razonamiento es que una vez aplicada
+  otra propiedad sobre la fuente "azul", el color vuelve al definido por defecto al inicio
+  de este archivo, al verde. Si se quisiera que los span dentro de párrafos fueran también
+  de color azul y no el verde por defecto, habría que añadir esa propiedad dentro de este
+  mismo bloque*/
+
+  /*color: blue;*/
+}
+p * span{
+  color: red;
+}
