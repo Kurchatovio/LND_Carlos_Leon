@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang = "es">
+<head>
+
+  <title>Práctica 3</title>
+  <meta charset = "UTF-8" />
+</head>
+<body>
+<h3>Información sobre el producto</h3>
+
+<form class="form" action="index.html" method="post">
+  <fieldset>
+    <legend>Datos básicos</legend>
+  <label for="nombre">Nombre</label>
+  <input type="text" id="input_1" /><br>
+  <label for="descripcion">Descripción</label><br>
+  <textarea name="name" rows="8" cols="80"></textarea><br><br>
+  <label for="foto">Foto</label>
+  <input type="text" name="text" >
+  <input type="submit" id="button" value="Elegir"><br>
+  <input type="checkbox" name="" value="">
+  <label for="">Añadir contador de visitas</label>
+  </fieldset>
+</form>
+<form class="form" action="index.html" method="post">
+  <fieldset>
+    <legend>Datos económicos</legend>
+    <label for="precio">Precio</label>
+    <input type="text" name="precio">
+    <label for="euro">€</label>
+    <label for="tax">Impuestos</label>
+    <select class="tax" id="tax">
+      <option value="v1">4%</option>
+      <option value="v2">7%</option>
+      <option value="v3">16%</option>
+      <option value="v4">426%</option>
+    </select><br>
+    <label for="">Promoción</label><br>
+    <input type="radio" id="opt1" checked>
+    <label for="non">Ninguno</label><br>
+    <input type="radio" id="opt1" >
+    <label for="transp">Transporte gratuito</label><br>
+    <input type="radio" id="opt1" >
+    <label for="dto">Descuento 5%</label>
+  </fieldset>
+
+</form>
+
+</body>
+</html>
