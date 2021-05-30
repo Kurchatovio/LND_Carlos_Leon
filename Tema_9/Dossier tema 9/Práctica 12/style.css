@@ -1,0 +1,15 @@
+table{
+  width: 25%;
+  border: 1;
+}
+tr:first-child{
+  background-color: blue;
+  color: white;
+}
+tr:nth-child(2){
+  background-color: pink;
+}
+green:first-child{
+  background-color: green;
+  color: white;
+}
