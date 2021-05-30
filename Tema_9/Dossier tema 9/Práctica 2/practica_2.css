@@ -1,0 +1,13 @@
+nombre{
+  color: red;
+  background-color: pink;
+  font-size: 20;
+}
+
+apellidos{
+  color: green;
+  font-size: 16;
+}
+repetidor, notas{
+  display: none;
+}

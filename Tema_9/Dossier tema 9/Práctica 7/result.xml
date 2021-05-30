@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ciales>
+   <alumno>
+      <cial>A27M242</cial>
+      <datos>María</datos>
+      <apellidos>Álvarez Pérez</apellidos>
+      <curso/>
+   </alumno>
+   <alumno>
+      <cial>A90R112</cial>
+      <datos>Iván</datos>
+      <apellidos>Rodríguez Pérez</apellidos>
+      <curso/>
+   </alumno>
+   <alumno>
+      <cial>A92R003</cial>
+      <datos>Luis Fernando</datos>
+      <apellidos>Jiménez Pérez</apellidos>
+      <curso/>
+   </alumno>
+</ciales>

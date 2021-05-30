@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ciales>
+   <cartas>
+      <invitacion>
+         <destinatario>María
+					-
+					Álvarez Pérez</destinatario>
+         <evento>1ª  Congregación de los Pérez</evento>
+      </invitacion>
+   </cartas>
+   <cartas>
+      <invitacion>
+         <destinatario>Iván
+					-
+					Rodríguez Pérez</destinatario>
+         <evento>1ª  Congregación de los Pérez</evento>
+      </invitacion>
+   </cartas>
+   <cartas>
+      <invitacion>
+         <destinatario>Luis Fernando
+					-
+					Jiménez Pérez</destinatario>
+         <evento>1ª  Congregación de los Pérez</evento>
+      </invitacion>
+   </cartas>
+</ciales>
